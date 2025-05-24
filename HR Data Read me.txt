@@ -1,0 +1,58 @@
+HR Data Project
+
+This Power BI dashboard provides a comprehensive analysis of HR data to support data-driven decision-making in talent management, 
+workforce planning, and employee engagement. The goal of this project 
+is to transform raw HR data into insightful visualizations that highlight key trends and KPIs relevant to human resources.
+
+ Objectives
+
+    Visualize and monitor workforce demographics and composition
+
+    Analyze employee attrition and retention trends
+
+    Identify patterns in hiring and termination
+
+    Track key performance indicators (KPIs) such as headcount, turnover rate, and average tenure
+
+    Support HR strategy development with actionable insights
+
+The dashboard is built on a structured HR dataset that includes:
+
+    Employee personal and job-related information
+
+    Department and role assignments
+
+    Hiring and exit dates
+
+KEY FEATURES include:
+	Employee Overview: Displays total headcount, gender distribution, and department-wise composition.
+
+	Attrition Analysis: Highlights attrition rate, voluntary vs. involuntary exits, and trends over time.
+
+	Hiring Trends: Visualizes hiring activity by month, job role, and source of hire.
+
+	Departmental Insights: Breaks down employee statistics and turnover per department or location.
+
+	Tenure & Age Distribution: Shows average tenure, employee age brackets, and how these correlate with attrition.
+
+	Interactive Filters: Enables users to drill down by department, location, job role, or time period.
+
+Tools & Technologies
+
+    Power BI Desktop: For data modeling, visualization, and dashboard creation
+
+    DAX (Data Analysis Expressions): For calculated columns and measures
+
+    Power Query Editor: For data cleaning and transformation
+
+Business Impact
+
+This dashboard empowers HR teams to:
+
+    Proactively address attrition risks
+
+    Optimize hiring strategies
+
+    Ensure diversity and inclusion tracking
+
+    Improve workforce planning and budgeting
